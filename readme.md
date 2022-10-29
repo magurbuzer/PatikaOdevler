@@ -1,0 +1,2 @@
+#PatikaOdevler
+##Degiskenler
